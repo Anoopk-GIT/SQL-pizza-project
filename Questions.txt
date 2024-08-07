@@ -1,0 +1,12 @@
+Level 1
+1- Calculate the total revenue generated from pizza sales.
+2- Identify the most common pizza size ordered.
+3- List the top 5 most ordered pizza types along with their quantities.
+4- Determine the distribution of orders by hour of the day.
+5- Group the orders by date and calculate the average number of pizzas ordered per day.
+
+Level 2
+1- Join the necessary tables to find the total quantity of each pizza category ordered.
+2- Determine the top 3 most ordered pizza types based on revenue.
+3- Calculate the percentage contribution of each pizza type to total revenue.
+4- Analyze the cumulative revenue generated over time.
